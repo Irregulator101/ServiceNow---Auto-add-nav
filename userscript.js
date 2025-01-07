@@ -9,6 +9,7 @@
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/validate_multifactor_auth_code\.do/
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/side_door\.do/
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/navpage\.do/
+// @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/welcome\.do/
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/logout_success\.do/
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/\$.+/
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/sys_store_app\.do/
@@ -17,7 +18,7 @@
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/x_snc_sso_auth\.do/
 // @exclude        /https?:\/\/.+?\.(service-now|servicenowservices)\.com\/workflow_ide\.do(.+?|$)/
 // @grant          none
-// @version        0.5
+// @version        0.7
 // @author         Eric Schultz
 // @description    Created 10/29/2024
 // ==/UserScript==
